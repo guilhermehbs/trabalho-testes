@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gui10\\.nuget\\packages\\": {},
+    "C:\\Users\\Yago Henrique\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Projetos\\trabalho-testes\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "H:\\testes-trabalho\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\dev\\Projetos\\trabalho-testes\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\gui10\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Projetos\\trabalho-testes\\ConsoleApp1\\obj\\",
+      "projectPath": "H:\\testes-trabalho\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\Yago Henrique\\.nuget\\packages\\",
+      "outputPath": "H:\\testes-trabalho\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gui10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yago Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -50,8 +50,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -72,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
