@@ -71,7 +71,7 @@ namespace ConsoleApp1
 				}
 			}
 		}
-		static void ExibirCalendário()
+		public static void ExibirCalendário()
 		{
 			for (int i = 0; i < empresa._listaEventos.Count; i++)
 			{
