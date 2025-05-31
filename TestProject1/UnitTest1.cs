@@ -205,7 +205,7 @@ namespace AGGVFestas.Tests.XUnit
 			Espaco espacoF = _empresa._listaEspacos.First(e => e.nomeEspaco == "F");
 			DateTime dataEvento = DateTime.Now.AddDays(30).Date;
 			int qtdConvidados = 200;
-			TipoEvento tipoEvento = TipoEvento.Luxo;
+			TipoEvento tipoEvento = TipoEvento.Luxo; 
 			CategoriaEvento categoriaEvento = CategoriaEvento.Casamento;
 
 			Casamento casamento = new Casamento(dataEvento, qtdConvidados, espacoF, tipoEvento, categoriaEvento);
