@@ -19,7 +19,7 @@ public class Empresa
         new Espaco("E", 200, 17000.00),
         new Espaco("F", 200, 17000.00),
         new Espaco("G", 500, 8000.00),
-        new Espaco("H", 500, 35000.00)
+        new Espaco("H", 500, 35000.00) 
     };
     public List<Evento> _listaEventos;
 
