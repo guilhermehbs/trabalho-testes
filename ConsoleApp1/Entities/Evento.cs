@@ -87,7 +87,8 @@ public class Evento
             {
                 bebidas.Add(_bebidas[i]);
             }
-            if ((tipoBebida == TipoEvento.Premier || tipoBebida == TipoEvento.Standard) && _bebidas[i]._tipo == TipoEvento.LuxoIPremier)
+
+            if (tipoBebida == TipoEvento.Premier && _bebidas[i]._tipo == TipoEvento.LuxoIPremier)
             {
                 bebidas.Add(_bebidas[i]);
             }
